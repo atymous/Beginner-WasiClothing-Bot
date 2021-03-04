@@ -1,5 +1,4 @@
 {
-  //note
   "java.project.referencedLibraries": {
     "include": [
       "lib/**/*.jar",

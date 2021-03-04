@@ -1,0 +1,12 @@
+{
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar",
+      "/Users/mac/Desktop/Library/selenium-server-standalone-3.141.59.jar",
+      "/Users/mac/Desktop/Library/mysql-connector-java-5.1.49/**/*.jar"
+    ],
+    "exclude": [
+      "/Users/mac/Desktop/Library/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar"
+    ]
+  }
+}
